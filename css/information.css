@@ -1,0 +1,17 @@
+body{
+	margin-left: 200px;
+	margin-top: 100px;
+}
+.one{
+	color: skyblue;
+	font-family: cursive;
+}
+.two{
+	color: purple;
+	font-weight: bolder;
+}
+#header{
+	text-decoration: underline;
+	color: purple;
+}
+

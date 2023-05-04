@@ -1,0 +1,12 @@
+body{
+	background-color: lightblue;
+}
+.photo{
+	margin-left: 190px;
+}
+#header{
+	text-align: center;
+	color: hotpink;
+	font-size: 3rem;
+	background-color: whitesmoke;
+}
